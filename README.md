@@ -19,9 +19,21 @@ This repository contains learning materials and code examples for Playwright aut
 - [08_Comment.js](Chapter_03_Identifier_Literals/08_Comment.js) - Comments in JavaScript
 - [js_identifier_rules.js](Chapter_03_Identifier_Literals/js_identifier_rules.js) - Comprehensive identifier rules
 
+### Chapter 4: JavaScript Concepts
+- [09_var_let_const.js](Chapter_04_chapter_04_Javascript_Concepts/09_var_let_const.js) - Differences between var, let, and const
+- [10_functions.js](Chapter_04_chapter_04_Javascript_Concepts/10_functions.js) - Function declarations and expressions
+- [11_var_explained.js](Chapter_04_chapter_04_Javascript_Concepts/11_var_explained.js) - Deep dive into var keyword
+- [12_let_peope_love.js](Chapter_04_chapter_04_Javascript_Concepts/12_let_peope_love.js) - Understanding let keyword and its popularity
+- [13_const_explained.js](Chapter_04_chapter_04_Javascript_Concepts/13_const_explained.js) - Const keyword and immutability
+- [14_var_functionscope.js](Chapter_04_chapter_04_Javascript_Concepts/14_var_functionscope.js) - Function scope with var
+- [15_let_scope.js](Chapter_04_chapter_04_Javascript_Concepts/15_let_scope.js) - Block scope with let
+- [16_Hoisting.js](Chapter_04_chapter_04_Javascript_Concepts/16_Hoisting.js) - JavaScript hoisting concepts
+- [17_hoisting_fn.js](Chapter_04_chapter_04_Javascript_Concepts/17_hoisting_fn.js) - Function hoisting examples
+- [task.js](Chapter_04_chapter_04_Javascript_Concepts/task.js) - Chapter 4 practice tasks
+
 ### Resources
-- [VS_Code_KeyboardShortcuts_Windows.md](Chapter_03_Identifier_Literals/VS_Code_KeyboardShortcuts_Windows.md) - VS Code shortcuts for Windows
-- [VS_Code_KeyboardShortcuts_Mac.md](Chapter_03_Identifier_Literals/VS_Code_KeyboardShortcuts_Mac.md) - VS Code shortcuts for macOS
+- [VS_Code_KeyboardShortcuts_Windows.md](VS_Code_KeyboardShortcuts_Windows.md) - VS Code shortcuts for Windows
+- [VS_Code_KeyboardShortcuts_Mac.md](VS_Code_KeyboardShortcuts_Mac.md) - VS Code shortcuts for macOS
 
 ## 🚀 Getting Started
 
