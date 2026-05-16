@@ -31,6 +31,33 @@ This repository contains learning materials and code examples for Playwright aut
 - [17_hoisting_fn.js](Chapter_04_chapter_04_Javascript_Concepts/17_hoisting_fn.js) - Function hoisting examples
 - [task.js](Chapter_04_chapter_04_Javascript_Concepts/task.js) - Chapter 4 practice tasks
 
+### Chapter 5: Literals
+- [22_Literal.js](chapter_05_Literal/22_Literal.js) - JavaScript literal values
+- [23_null_undefined.js](chapter_05_Literal/23_null_undefined.js) - Null vs undefined
+- [24_null.js](chapter_05_Literal/24_null.js) - Null examples
+- [25_Literal_All.js](chapter_05_Literal/25_Literal_All.js) - Literal types overview
+- [26_Literal_Number_all.js](chapter_05_Literal/26_Literal_Number_all.js) - Number literals
+- [27_String.js](chapter_05_Literal/27_String.js) - String literals
+- [28_Template_Literal.js](chapter_05_Literal/28_Template_Literal.js) - Template literals
+- [29_Backtick_single_double.js](chapter_05_Literal/29_Backtick_single_double.js) - Backticks, single and double quotes
+
+### Chapter 6: Operators
+- [30_Operator.js](chapter_06_Operator/30_Operator.js) - Operator overview
+- [31_Arithmetic_OP.js](chapter_06_Operator/31_Arithmetic_OP.js) - Arithmetic operators
+- [32_Modulus_OP.js](chapter_06_Operator/32_Modulus_OP.js) - Modulus operator
+- [33_Expo_OP.js](chapter_06_Operator/33_Expo_OP.js) - Exponentiation operator
+- [34_IQ.js](chapter_06_Operator/34_IQ.js) - Comparison operators
+- [35_Comparsion_OP.js](chapter_06_Operator/35_Comparsion_OP.js) - Comparison examples
+- [36_Comparsion_Strict_loose.js](chapter_06_Operator/36_Comparsion_Strict_loose.js) - Strict vs loose equality
+- [37_IQ_Loose_Strict.js](chapter_06_Operator/37_IQ_Loose_Strict.js) - Loose and strict comparisons
+- [38_Confusing_Comparsion.js](chapter_06_Operator/38_Confusing_Comparsion.js) - Confusing comparison cases
+- [39_Logical_Op.js](chapter_06_Operator/39_Logical_Op.js) - Logical operators
+- [40_String_Con_Op.js](chapter_06_Operator/40_String_Con_Op.js) - String concatenation and operators
+- [41_Ternary_Op.js](chapter_06_Operator/41_Ternary_Op.js) - Ternary operator
+- [42_Type_Op.js](chapter_06_Operator/42_Type_Op.js) - Type operators
+- [43_Incre_Decre_Op.js](chapter_06_Operator/43_Incre_Decre_Op.js) - Increment and decrement operators
+- [44_Null_Op.js](chapter_06_Operator/44_Null_Op.js) - Nullish coalescing operator
+
 ### Resources
 - [VS_Code_KeyboardShortcuts_Windows.md](VS_Code_KeyboardShortcuts_Windows.md) - VS Code shortcuts for Windows
 - [VS_Code_KeyboardShortcuts_Mac.md](VS_Code_KeyboardShortcuts_Mac.md) - VS Code shortcuts for macOS
