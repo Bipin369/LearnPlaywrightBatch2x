@@ -57,6 +57,38 @@ This repository contains learning materials and code examples for Playwright aut
 - [42_Type_Op.js](chapter_06_Operator/42_Type_Op.js) - Type operators
 - [43_Incre_Decre_Op.js](chapter_06_Operator/43_Incre_Decre_Op.js) - Increment and decrement operators
 - [44_Null_Op.js](chapter_06_Operator/44_Null_Op.js) - Nullish coalescing operator
+- [45_Post_Increment.js](chapter_06_Operator/45_Post_Increment.js) - Post-increment examples
+- [46_IQ_INCREMENT_D.js](chapter_06_Operator/46_IQ_INCREMENT_D.js) - Increment/decrement logic
+- [47_Advance_ID.js](chapter_06_Operator/47_Advance_ID.js) - Advanced operator examples
+
+### Chapter 7: If/Else
+- [48_IF_ESLE.js](chapter_07_If_else/48_IF_ESLE.js) - If/else control flow
+- [49_If_elseif_else.js](chapter_07_If_else/49_If_elseif_else.js) - If / else if / else examples
+- [50_REAL_IF_ELSE.js](chapter_07_If_else/50_REAL_IF_ELSE.js) - Real-world if/else logic
+- [51_API_IF_ELSE.js](chapter_07_If_else/51_API_IF_ELSE.js) - API response branching
+- [52_IQ_IF_ELSE.js](chapter_07_If_else/52_IQ_IF_ELSE.js) - If/else quiz examples
+- [53_IF_ELSE_real.js](chapter_07_If_else/53_IF_ELSE_real.js) - Practical if/else usage
+- [54_IQ.js](chapter_07_If_else/54_IQ.js) - Conditional problem solving
+- [55_IE.js](chapter_07_If_else/55_IE.js) - If/else examples
+- [56_IQ_EVEN_ODD.js](chapter_07_If_else/56_IQ_EVEN_ODD.js) - Even/odd logic
+- [57_Grade_Calc.js](chapter_07_If_else/57_Grade_Calc.js) - Grade calculator logic
+- [58_LEAP_YEAR.js](chapter_07_If_else/58_LEAP_YEAR.js) - Leap year calculation
+
+### Chapter 8: Switch Statement
+- [59_Switch.js](chapter_08_Switch_Statement/59_Switch.js) - Switch statement basics
+- [60_No_Break.js](chapter_08_Switch_Statement/60_No_Break.js) - Switch without break examples
+- [61_Default.js](chapter_08_Switch_Statement/61_Default.js) - Default case in switch
+- [62_REAL_TIME_EXAMPLE.js](chapter_08_Switch_Statement/62_REAL_TIME_EXAMPLE.js) - Practical switch usage
+- [63_Switch_Group.js](chapter_08_Switch_Statement/63_Switch_Group.js) - Grouping switch cases
+- [64_IQ.js](chapter_08_Switch_Statement/64_IQ.js) - Switch quiz examples
+- [65_IQ2.js](chapter_08_Switch_Statement/65_IQ2.js) - More switch questions
+- [66_IQ3.js](chapter_08_Switch_Statement/66_IQ3.js) - Switch practice problems
+- [67_IQ4.js](chapter_08_Switch_Statement/67_IQ4.js) - Advanced switch patterns
+
+### Chapter 9: User Input
+- [68_User_Input.js](chapter_09_UserInput/68_User_Input.js) - Browser and prompt input examples
+- [69_Node_readline.js](chapter_09_UserInput/69_Node_readline.js) - Node readline input
+- [70_prompt_sync.js](chapter_09_UserInput/70_prompt_sync.js) - prompt-sync input handling
 
 ### Resources
 - [VS_Code_KeyboardShortcuts_Windows.md](VS_Code_KeyboardShortcuts_Windows.md) - VS Code shortcuts for Windows
