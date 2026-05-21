@@ -135,6 +135,10 @@ Feel free to contribute by:
 - Fixing bugs
 - Adding documentation
 
+## 📝 Tasks
+
+- [Tasks/20_May_2026/Login_Attempt.js](Tasks/20_May_2026/Login_Attempt.js) - Login attempt examples and trial scripts
+
 ## 📄 License
 
 This project is for educational purposes.
