@@ -138,6 +138,8 @@ Feel free to contribute by:
 ## 📝 Tasks
 
 - [Tasks/20_May_2026/Login_Attempt.js](Tasks/20_May_2026/Login_Attempt.js) - Login attempt examples and trial scripts
+- [Tasks/22_May_2026/FizzBuzz.js](Tasks/22_May_2026/FizzBuzz.js) - FizzBuzz practice task
+- [Tasks/22_May_2026/Traingle_Classifier.js](Tasks/22_May_2026/Traingle_Classifier.js) - Triangle classifier practice task
 
 ## 📄 License
 
