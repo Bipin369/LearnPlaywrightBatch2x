@@ -90,6 +90,31 @@ This repository contains learning materials and code examples for Playwright aut
 - [69_Node_readline.js](chapter_09_UserInput/69_Node_readline.js) - Node readline input
 - [70_prompt_sync.js](chapter_09_UserInput/70_prompt_sync.js) - prompt-sync input handling
 
+### Chapter 10: Loops
+- [71_For_loop.js](chapter_10_Loops/71_For_loop.js) - For loop basics
+- [72_For_loop.js](chapter_10_Loops/72_For_loop.js) - More for loop examples
+- [73_For_Loop2.js](chapter_10_Loops/73_For_Loop2.js) - Advanced for loop patterns
+- [74_IQ.js](chapter_10_Loops/74_IQ.js) - Loop practice questions
+- [75_For_OF_IN_EACH.js](chapter_10_Loops/75_For_OF_IN_EACH.js) - For-of, for-in, and forEach loops
+- [76_While.js](chapter_10_Loops/76_While.js) - While loop examples
+- [77_Do_While.js](chapter_10_Loops/77_Do_While.js) - Do-while loop examples
+- [78_Do_While.js](chapter_10_Loops/78_Do_While.js) - Do-while practice
+- [79_IQ.js](chapter_10_Loops/79_IQ.js) - Loop quiz problems
+- [80_IQ.js](chapter_10_Loops/80_IQ.js) - Loop quiz problems
+- [81_IQ.js](chapter_10_Loops/81_IQ.js) - Loop quiz problems
+- [82_IQ.js](chapter_10_Loops/82_IQ.js) - Loop quiz problems
+
+### Chapter 11: Arrays
+- [83_Arrays.js](chapter_11_Arrays/83_Arrays.js) - Array basics
+- [84_Arrays.js](chapter_11_Arrays/84_Arrays.js) - More array examples
+- [85_Access_Array.js](chapter_11_Arrays/85_Access_Array.js) - Accessing array elements
+- [86_Arrays_Adding_Remove.js](chapter_11_Arrays/86_Arrays_Adding_Remove.js) - Adding and removing array elements
+- [87_Adding_Remove2.js](chapter_11_Arrays/87_Adding_Remove2.js) - Array modification techniques
+- [88_REAL_Example.js](chapter_11_Arrays/88_REAL_Example.js) - Real-world array example
+- [89_Searching.js](chapter_11_Arrays/89_Searching.js) - Searching arrays
+- [90_Iterate.js](chapter_11_Arrays/90_Iterate.js) - Iterating over arrays
+- [91_Transform_Array.js](chapter_11_Arrays/91_Transform_Array.js) - Transforming arrays with methods
+
 ### Resources
 - [VS_Code_KeyboardShortcuts_Windows.md](VS_Code_KeyboardShortcuts_Windows.md) - VS Code shortcuts for Windows
 - [VS_Code_KeyboardShortcuts_Mac.md](VS_Code_KeyboardShortcuts_Mac.md) - VS Code shortcuts for macOS
