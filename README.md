@@ -114,6 +114,34 @@ This repository contains learning materials and code examples for Playwright aut
 - [89_Searching.js](chapter_11_Arrays/89_Searching.js) - Searching arrays
 - [90_Iterate.js](chapter_11_Arrays/90_Iterate.js) - Iterating over arrays
 - [91_Transform_Array.js](chapter_11_Arrays/91_Transform_Array.js) - Transforming arrays with methods
+- [92_Arrays.js](chapter_11_Arrays/92_Arrays.js) - Advanced array concepts
+- [93_Array_Slicing.js](chapter_11_Arrays/93_Array_Slicing.js) - Array slicing and copying
+- [94_Concat_array.js](chapter_11_Arrays/94_Concat_array.js) - Concatenating arrays
+- [95_Array_Checking.js](chapter_11_Arrays/95_Array_Checking.js) - Array type checking and validation
+
+### Chapter 12: Functions
+- [96_Functions.js](chapter_12_Functions/96_Functions.js) - Function overview and concepts
+- [97_Type1_Fn_Basic_Functions.js](chapter_12_Functions/97_Type1_Fn_Basic_Functions.js) - Basic function declarations
+- [98_Type2_Fn_With_Param_No_Return.js](chapter_12_Functions/98_Type2_Fn_With_Param_No_Return.js) - Functions with parameters (no return)
+- [99_Type3_Fn_without_Param_Return_Type.js](chapter_12_Functions/99_Type3_Fn_without_Param_Return_Type.js) - Functions without parameters (with return)
+- [100_Type4_Fn_With_Param_With_Return.js](chapter_12_Functions/100_Type4_Fn_With_Param_With_Return.js) - Functions with parameters and return values
+- [101_Template_literal.js](chapter_12_Functions/101_Template_literal.js) - Template literals in functions
+- [102_Fn_Expression.js](chapter_12_Functions/102_Fn_Expression.js) - Function expressions
+- [103_Arrow_Fn.js](chapter_12_Functions/103_Arrow_Fn.js) - Arrow function basics
+- [104_Arrow_Fn_REAL.js](chapter_12_Functions/104_Arrow_Fn_REAL.js) - Real-world arrow function examples
+- [105_IIFE.js](chapter_12_Functions/105_IIFE.js) - Immediately Invoked Function Expressions
+- [106_Default_Param_Fn.js](chapter_12_Functions/106_Default_Param_Fn.js) - Functions with default parameters
+- [107_IQ.js](chapter_12_Functions/107_IQ.js) - Function practice questions
+- [108_Rest_Param_Fn.js](chapter_12_Functions/108_Rest_Param_Fn.js) - Rest parameters in functions
+- [109_IQ.js](chapter_12_Functions/109_IQ.js) - More function practice questions
+- [110_Spead_IQ.js](chapter_12_Functions/110_Spead_IQ.js) - Spread operator practice
+- [111_Scope._Fn.js](chapter_12_Functions/111_Scope._Fn.js) - Function scope and variable scope
+- [112_IQ.js](chapter_12_Functions/112_IQ.js) - Scope-related practice questions
+- [113_Closure.js](chapter_12_Functions/113_Closure.js) - Understanding closures
+- [114_Closure.js](chapter_12_Functions/114_Closure.js) - Closure examples and patterns
+- [115_API_REAL_Closure.js](chapter_12_Functions/115_API_REAL_Closure.js) - Real-world closure usage
+- [116_Higher_Order_Fn.js](chapter_12_Functions/116_Higher_Order_Fn.js) - Higher-order functions
+- [117_Pure_Fn.js](chapter_12_Functions/117_Pure_Fn.js) - Pure functions and functional programming
 
 ### Resources
 - [VS_Code_KeyboardShortcuts_Windows.md](VS_Code_KeyboardShortcuts_Windows.md) - VS Code shortcuts for Windows
@@ -165,6 +193,7 @@ Feel free to contribute by:
 - [Tasks/20_May_2026/Login_Attempt.js](Tasks/20_May_2026/Login_Attempt.js) - Login attempt examples and trial scripts
 - [Tasks/22_May_2026/FizzBuzz.js](Tasks/22_May_2026/FizzBuzz.js) - FizzBuzz practice task
 - [Tasks/22_May_2026/Traingle_Classifier.js](Tasks/22_May_2026/Traingle_Classifier.js) - Triangle classifier practice task
+- [Tasks/27_May_2026/Test.js](Tasks/27_May_2026/Test.js) - Test and practice script from 27 May 2026
 
 ## 📄 License
 
