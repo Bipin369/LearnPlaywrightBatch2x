@@ -142,6 +142,14 @@ This repository contains learning materials and code examples for Playwright aut
 - [115_API_REAL_Closure.js](chapter_12_Functions/115_API_REAL_Closure.js) - Real-world closure usage
 - [116_Higher_Order_Fn.js](chapter_12_Functions/116_Higher_Order_Fn.js) - Higher-order functions
 - [117_Pure_Fn.js](chapter_12_Functions/117_Pure_Fn.js) - Pure functions and functional programming
+### Chapter 13: Strings
+- [118_Strings.js](chapter_13_Strings/118_Strings.js) - String basics and examples
+- [119_String_Properties.js](chapter_13_Strings/119_String_Properties.js) - String properties
+- [120_Search_Check_Str.js](chapter_13_Strings/120_Search_Check_Str.js) - Searching and checking strings
+- [121_Substring.js](chapter_13_Strings/121_Substring.js) - Substring examples
+- [122_Transform_Str.js](chapter_13_Strings/122_Transform_Str.js) - Transforming strings
+- [123_SC.js](chapter_13_Strings/123_SC.js) - String challenges
+- [javascript_stringcheatsheet.md](chapter_13_Strings/javascript_stringcheatsheet.md) - JavaScript string cheatsheet
 
 ### Resources
 - [VS_Code_KeyboardShortcuts_Windows.md](VS_Code_KeyboardShortcuts_Windows.md) - VS Code shortcuts for Windows
@@ -194,6 +202,7 @@ Feel free to contribute by:
 - [Tasks/22_May_2026/FizzBuzz.js](Tasks/22_May_2026/FizzBuzz.js) - FizzBuzz practice task
 - [Tasks/22_May_2026/Traingle_Classifier.js](Tasks/22_May_2026/Traingle_Classifier.js) - Triangle classifier practice task
 - [Tasks/27_May_2026/Test.js](Tasks/27_May_2026/Test.js) - Test and practice script from 27 May 2026
+- [Tasks/3_June_2026/Palindrom.js](Tasks/3_June_2026/Palindrom.js) - Palindrome task (3 June 2026)
 
 ## 📄 License
 
