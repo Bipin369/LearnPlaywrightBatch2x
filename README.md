@@ -151,9 +151,26 @@ This repository contains learning materials and code examples for Playwright aut
 - [123_SC.js](chapter_13_Strings/123_SC.js) - String challenges
 - [javascript_stringcheatsheet.md](chapter_13_Strings/javascript_stringcheatsheet.md) - JavaScript string cheatsheet
 
+### Chapter 14: Objects
+- [124_Objects.js](chapter_14_Objects/124_Objects.js) - Objects and property access
+- [125_Objects2.js](chapter_14_Objects/125_Objects2.js) - Object examples and patterns
+- [126_Objects_Creation.js](chapter_14_Objects/126_Objects_Creation.js) - Creating objects
+- [127_Objects_REAL.js](chapter_14_Objects/127_Objects_REAL.js) - Real-world object examples
+- [128_Primitive_Ref.js](chapter_14_Objects/128_Primitive_Ref.js) - Primitives vs object references
+- [129_Ob_Examples.js](chapter_14_Objects/129_Ob_Examples.js) - Object operations and examples
+- [130_IQ.js](chapter_14_Objects/130_IQ.js) - Object quiz problems
+- [131_Object_Fn.js](chapter_14_Objects/131_Object_Fn.js) - Objects and functions
+- [132_Obj_Decon.js](chapter_14_Objects/132_Obj_Decon.js) - Object destructuring
+- [133_Spread.js](chapter_14_Objects/133_Spread.js) - Spread syntax with objects
+- [134_Objects_GET_SET_Methods.js](chapter_14_Objects/134_Objects_GET_SET_Methods.js) - Getters and setters
+- [135_IQ.js](chapter_14_Objects/135_IQ.js) - Object practice questions
+- [136_Obj_REAL.js](chapter_14_Objects/136_Obj_REAL.js) - Real-world object usage
+- [137_Let_const_ob.js](chapter_14_Objects/137_Let_const_ob.js) - let/const with objects and references
+
 ### Resources
 - [VS_Code_KeyboardShortcuts_Windows.md](VS_Code_KeyboardShortcuts_Windows.md) - VS Code shortcuts for Windows
 - [VS_Code_KeyboardShortcuts_Mac.md](VS_Code_KeyboardShortcuts_Mac.md) - VS Code shortcuts for macOS
+- [interview.md](interview.md) - JavaScript interview notes and object reference guidance
 
 ## 🚀 Getting Started
 
