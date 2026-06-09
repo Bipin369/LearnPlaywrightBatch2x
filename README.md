@@ -167,6 +167,13 @@ This repository contains learning materials and code examples for Playwright aut
 - [136_Obj_REAL.js](chapter_14_Objects/136_Obj_REAL.js) - Real-world object usage
 - [137_Let_const_ob.js](chapter_14_Objects/137_Let_const_ob.js) - let/const with objects and references
 
+### Chapter 15: 2D Arrays
+- [138_2D_Array.js](chapter_15_2D_Array/138_2D_Array.js) - 2D array basics and traversal
+- [139_2d.js](chapter_15_2D_Array/139_2d.js) - 2D array indexing and operations
+- [140_REAL.js](chapter_15_2D_Array/140_REAL.js) - Real-world 2D array examples
+- [141_2d_Array_Fn.js](chapter_15_2D_Array/141_2d_Array_Fn.js) - 2D array functions
+- [142_IQ_Right_Pattern_Py.js](chapter_15_2D_Array/142_IQ_Right_Pattern_Py.js) - Right pattern and 2D array practice
+
 ### Resources
 - [VS_Code_KeyboardShortcuts_Windows.md](VS_Code_KeyboardShortcuts_Windows.md) - VS Code shortcuts for Windows
 - [VS_Code_KeyboardShortcuts_Mac.md](VS_Code_KeyboardShortcuts_Mac.md) - VS Code shortcuts for macOS
