@@ -228,6 +228,8 @@ Feel free to contribute by:
 - [Tasks/22_May_2026/Traingle_Classifier.js](Tasks/22_May_2026/Traingle_Classifier.js) - Triangle classifier practice task
 - [Tasks/27_May_2026/Test.js](Tasks/27_May_2026/Test.js) - Test and practice script from 27 May 2026
 - [Tasks/3_June_2026/Palindrom.js](Tasks/3_June_2026/Palindrom.js) - Palindrome task (3 June 2026)
+ - [Tasks/8_June_2026/Pattern1.js](Tasks/8_June_2026/Pattern1.js) - Pattern practice 1
+ - [Tasks/8_June_2026/Pattern2.js](Tasks/8_June_2026/Pattern2.js) - Pattern practice 2
 
 ## 📄 License
 
