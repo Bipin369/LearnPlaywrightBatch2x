@@ -198,6 +198,7 @@ This repository contains learning materials and code examples for Playwright aut
 - VS Code Keyboard Shortcuts
 - Process and Platform Information
 - Basic Programming Concepts
+- Array methods such as map, filter, reduce, and flat
 
 ## 🛠️ Prerequisites
 
