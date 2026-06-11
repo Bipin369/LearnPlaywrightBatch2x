@@ -243,3 +243,7 @@ For questions or suggestions, please open an issue in this repository.
 ---
 
 *Happy Learning! 🎉*
+
+## Changelog
+
+- 2026-06-11: Updated README — committed and pushed repository changes.
