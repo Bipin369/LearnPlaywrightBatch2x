@@ -174,6 +174,42 @@ This repository contains learning materials and code examples for Playwright aut
 - [141_2d_Array_Fn.js](chapter_15_2D_Array/141_2d_Array_Fn.js) - 2D array functions
 - [142_IQ_Right_Pattern_Py.js](chapter_15_2D_Array/142_IQ_Right_Pattern_Py.js) - Right pattern and 2D array practice
 
+### Chapter 16: Callbacks
+- [143_Callback.js](chapter_16_Callback/143_Callback.js) - Callback introduction and examples
+- [144_CB.js](chapter_16_Callback/144_CB.js) - Callback function basics
+- [145_CB_Fn.js](chapter_16_Callback/145_CB_Fn.js) - Callback function patterns
+- [146_PW_CB.js](chapter_16_Callback/146_PW_CB.js) - Playwright-style callback examples
+- [147_JS_CB.js](chapter_16_Callback/147_JS_CB.js) - JavaScript callback flows
+- [148_Sync_CB.js](chapter_16_Callback/148_Sync_CB.js) - Synchronous callback examples
+- [149_Async_CB.js](chapter_16_Callback/149_Async_CB.js) - Asynchronous callbacks
+- [150_CB_Hell.js](chapter_16_Callback/150_CB_Hell.js) - Callback hell examples
+- [151_CB_Hell_20_Steps.js](chapter_16_Callback/151_CB_Hell_20_Steps.js) - Deep callback hell demonstration
+- [152_CB_Parameter.js](chapter_16_Callback/152_CB_Parameter.js) - Callback parameter handling
+- [153_CB_Return.js](chapter_16_Callback/153_CB_Return.js) - Callback return patterns
+
+### Chapter 17: Promises
+- [154_Promise.js](chapter_17_Promise/154_Promise.js) - Promise creation and usage
+- [155_Promise_REAL_API.js](chapter_17_Promise/155_Promise_REAL_API.js) - Promises with real API calls
+- [156_Promise_REAL_API_PART2.js](chapter_17_Promise/156_Promise_REAL_API_PART2.js) - Advanced promise-based API handling
+- [157_Finally.js](chapter_17_Promise/157_Finally.js) - Promise finally and cleanup patterns
+- [158_Call_Py_Problem.js](chapter_17_Promise/158_Call_Py_Problem.js) - Promise chaining problem-solving
+- [159_Promise_ALL.js](chapter_17_Promise/159_Promise_ALL.js) - Promise.all examples
+- [160_Promise_IQ.js](chapter_17_Promise/160_Promise_IQ.js) - Promise quiz problems and exercises
+
+### Chapter 18: Async/Await
+- [161_Async.js](chapter_18_Async_Await/161_Async.js) - Async/await fundamentals
+- [162_Aysnc_P2.js](chapter_18_Async_Await/162_Aysnc_P2.js) - Async/await advanced patterns
+- [163_PyODom.js](chapter_18_Async_Await/163_PyODom.js) - Async DOM interactions and examples
+- [164_Async_Ex.js](chapter_18_Async_Await/164_Async_Ex.js) - Async function examples
+- [165_AA_Parallel.js](chapter_18_Async_Await/165_AA_Parallel.js) - Parallel async workflows
+- [165_AA_Seq.js](chapter_18_Async_Await/165_AA_Seq.js) - Sequential async execution
+- [166_IQ.js](chapter_18_Async_Await/166_IQ.js) - Async/await quiz questions
+- [167_ACLogin.js](chapter_18_Async_Await/167_ACLogin.js) - Async login flow examples
+
+### Chapter 19: Playwright Basics
+- [package.json](chapter_19_Playwright_Basics/package.json) - Playwright project configuration
+- [package-lock.json](chapter_19_Playwright_Basics/package-lock.json) - Locked package dependencies
+
 ### Resources
 - [VS_Code_KeyboardShortcuts_Windows.md](VS_Code_KeyboardShortcuts_Windows.md) - VS Code shortcuts for Windows
 - [VS_Code_KeyboardShortcuts_Mac.md](VS_Code_KeyboardShortcuts_Mac.md) - VS Code shortcuts for macOS
@@ -227,7 +263,7 @@ Feel free to contribute by:
 - [Tasks/22_May_2026/FizzBuzz.js](Tasks/22_May_2026/FizzBuzz.js) - FizzBuzz practice task
 - [Tasks/22_May_2026/Traingle_Classifier.js](Tasks/22_May_2026/Traingle_Classifier.js) - Triangle classifier practice task
 - [Tasks/27_May_2026/Test.js](Tasks/27_May_2026/Test.js) - Test and practice script from 27 May 2026
-- [Tasks/3_June_2026/Palindrom.js](Tasks/3_June_2026/Palindrom.js) - Palindrome task (3 June 2026)
+- [Tasks/3_June_2026/Palindrome.js](Tasks/3_June_2026/Palindrome.js) - Palindrome task (3 June 2026)
 - [Tasks/3_June_2026/Anagram.js](Tasks/3_June_2026/Anagram.js) - Anagram checker practice task
 - [Tasks/8_June_2026/Pattern1.js](Tasks/8_June_2026/Pattern1.js) - Pattern practice 1
 - [Tasks/8_June_2026/Pattern2.js](Tasks/8_June_2026/Pattern2.js) - Pattern practice 2
