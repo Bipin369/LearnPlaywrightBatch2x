@@ -207,8 +207,12 @@ This repository contains learning materials and code examples for Playwright aut
 - [167_ACLogin.js](chapter_18_Async_Await/167_ACLogin.js) - Async login flow examples
 
 ### Chapter 19: Playwright Basics
+- [playwright.config.js](chapter_19_Playwright_Basics/playwright.config.js) - Playwright test runner configuration
 - [package.json](chapter_19_Playwright_Basics/package.json) - Playwright project configuration
 - [package-lock.json](chapter_19_Playwright_Basics/package-lock.json) - Locked package dependencies
+- [tta-cart_invalidLogin.ts](chapter_19_Playwright_Basics/tta-cart_invalidLogin.ts) - Invalid login test case
+- [tta-cart_validLogin.ts](chapter_19_Playwright_Basics/tta-cart_validLogin.ts) - Valid login test case
+- [ttt-cart.specs.ts](chapter_19_Playwright_Basics/ttt-cart.specs.ts) - Generated Playwright test script
 
 ### Resources
 - [VS_Code_KeyboardShortcuts_Windows.md](VS_Code_KeyboardShortcuts_Windows.md) - VS Code shortcuts for Windows
