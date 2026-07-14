@@ -2,8 +2,10 @@ import { defineConfig } from '@playwright/test';
 
 export default defineConfig({
     testDir: './',
-    testMatch: '**/*.specs.js',
+    // Match both JavaScript and TypeScript test files with common spec/test suffixes
+    testMatch: '**/*.{spec,specs,test}.{js,ts}',
     use: {
-        browser: 'chromium',
+        // Use `browserName` (Playwright Test fixture) instead of `browser`
+        browserName: 'chromium',
     },
 });

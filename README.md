@@ -208,11 +208,19 @@ This repository contains learning materials and code examples for Playwright aut
 
 ### Chapter 19: Playwright Basics
 - [playwright.config.js](chapter_19_Playwright_Basics/playwright.config.js) - Playwright test runner configuration
+- [playwright.config.ts](chapter_19_Playwright_Basics/playwright.config.ts) - TypeScript-based Playwright configuration
 - [package.json](chapter_19_Playwright_Basics/package.json) - Playwright project configuration
 - [package-lock.json](chapter_19_Playwright_Basics/package-lock.json) - Locked package dependencies
-- [tta-cart_invalidLogin.ts](chapter_19_Playwright_Basics/tta-cart_invalidLogin.ts) - Invalid login test case
-- [tta-cart_validLogin.ts](chapter_19_Playwright_Basics/tta-cart_validLogin.ts) - Valid login test case
-- [ttt-cart.specs.ts](chapter_19_Playwright_Basics/ttt-cart.specs.ts) - Generated Playwright test script
+- [tta-cart_invalidLogin.spec.ts](chapter_19_Playwright_Basics/tta-cart_invalidLogin.spec.ts) - Invalid login automation scenario
+- [tta-cart_validLogin.spec.ts](chapter_19_Playwright_Basics/tta-cart_validLogin.spec.ts) - Valid login automation scenario
+- [ttt-cart.specs.ts](chapter_19_Playwright_Basics/ttt-cart.specs.ts) - Generated Playwright spec example
+- [tests/example.spec.ts](chapter_19_Playwright_Basics/tests/example.spec.ts) - Basic Playwright browser test example
+
+To run the Playwright examples from the chapter folder:
+```bash
+cd chapter_19_Playwright_Basics
+npx playwright test
+```
 
 ### Resources
 - [VS_Code_KeyboardShortcuts_Windows.md](VS_Code_KeyboardShortcuts_Windows.md) - VS Code shortcuts for Windows
