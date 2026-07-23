@@ -1,3 +1,6 @@
+/// <reference types="node" />
+
+import * as process from 'process';
 import { defineConfig, devices } from '@playwright/test';
 
 /**

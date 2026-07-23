@@ -219,8 +219,14 @@ This repository contains learning materials and code examples for Playwright aut
 To run the Playwright examples from the chapter folder:
 ```bash
 cd chapter_19_Playwright_Basics
+npm install
 npx playwright test
 ```
+
+### Playwright Quick Start
+- Use `npm run test:headed` to run the browser tests in headed mode.
+- Use `npm run test:headed:chromium` to run the example test only in Chromium.
+- The sample spec in [chapter_19_Playwright_Basics/tests/example.spec.ts](chapter_19_Playwright_Basics/tests/example.spec.ts) verifies the TTA Cart page title.
 
 ### Resources
 - [VS_Code_KeyboardShortcuts_Windows.md](VS_Code_KeyboardShortcuts_Windows.md) - VS Code shortcuts for Windows
