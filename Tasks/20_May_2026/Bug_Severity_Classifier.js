@@ -1,4 +1,4 @@
-let severity = 15;
+let severity = 8;
 
 switch(severity)
 {
