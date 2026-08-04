@@ -235,6 +235,15 @@ npx playwright test
 
 ### Coding Exams
 - [Coding_Exams/Basic_Part2/Program1.js](Coding_Exams/Basic_Part2/Program1.js) - Basic Part 2 exercise for mapping HTTP status codes with a switch statement
+- [Coding_Exams/Basic_Part2/Program2.js](Coding_Exams/Basic_Part2/Program2.js) - Basic Part 2 exercise for summarizing test results and release readiness
+- [Coding_Exams/Basic_Part2/Program3.js](Coding_Exams/Basic_Part2/Program3.js) - Basic Part 2 exercise for evaluating score-based results
+- [Coding_Exams/Basic_Part2/Program4.js](Coding_Exams/Basic_Part2/Program4.js) - Basic Part 2 exercise for handling numeric conditions
+- [Coding_Exams/Basic_Part2/Program5.js](Coding_Exams/Basic_Part2/Program5.js) - Basic Part 2 exercise for string and comparison logic
+- [Coding_Exams/Basic_Part2/Program6.js](Coding_Exams/Basic_Part2/Program6.js) - Basic Part 2 exercise for conditional decision-making
+- [Coding_Exams/Basic_Part2/Program7.js](Coding_Exams/Basic_Part2/Program7.js) - Basic Part 2 exercise for practical JavaScript branching
+- [Coding_Exams/Basic_Part2/Program8.js](Coding_Exams/Basic_Part2/Program8.js) - Basic Part 2 exercise for logic-based problem solving
+- [Coding_Exams/Basic_Part2/Program9.js](Coding_Exams/Basic_Part2/Program9.js) - Basic Part 2 exercise for additional JavaScript practice
+- [Coding_Exams/Basic_Part2/Program10.js](Coding_Exams/Basic_Part2/Program10.js) - Basic Part 2 exercise for final practice on conditional logic
 
 ## 🚀 Getting Started
 
