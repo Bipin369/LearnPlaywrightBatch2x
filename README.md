@@ -228,6 +228,39 @@ npx playwright test
 - Use `npm run test:headed:chromium` to run the example test only in Chromium.
 - The sample spec in [chapter_19_Playwright_Basics/tests/example.spec.ts](chapter_19_Playwright_Basics/tests/example.spec.ts) verifies the TTA Cart page title.
 
+### Chapter 20: Export/Import
+- [chapter_20_Export_Import/README.md](chapter_20_Export_Import/README.md) - Module export/import concepts and examples
+- [chapter_20_Export_Import/logger.js](chapter_20_Export_Import/logger.js) - Logging utility example
+- [chapter_20_Export_Import/testutils.js](chapter_20_Export_Import/testutils.js) - Utility functions for testing
+- [chapter_20_Export_Import/utils.js](chapter_20_Export_Import/utils.js) - Shared helper functions
+
+### Chapter 21: Classes and Objects
+- [chapter_21_Classes_and_Objects/README.md](chapter_21_Classes_and_Objects/README.md) - Classes, objects, and object-oriented basics
+- [chapter_21_Classes_and_Objects/171_Class_Object.js](chapter_21_Classes_and_Objects/171_Class_Object.js) - Class and object examples
+- [chapter_21_Classes_and_Objects/172_Class_Object2.js](chapter_21_Classes_and_Objects/172_Class_Object2.js) - Additional class and object demos
+- [chapter_21_Classes_and_Objects/173_Car.js](chapter_21_Classes_and_Objects/173_Car.js) - Car class example
+- [chapter_21_Classes_and_Objects/174_REAL_Browser.js](chapter_21_Classes_and_Objects/174_REAL_Browser.js) - Real-world class usage example
+- [chapter_21_Classes_and_Objects/175_IQ.js](chapter_21_Classes_and_Objects/175_IQ.js) - Practice questions on classes and objects
+
+### Chapter 22: Encapsulation
+- [chapter_22_Encapsulation/README.md](chapter_22_Encapsulation/README.md) - Encapsulation and data protection concepts
+- [chapter_22_Encapsulation/179_Ecap.js](chapter_22_Encapsulation/179_Ecap.js) - Encapsulation examples
+- [chapter_22_Encapsulation/180_REAK_EXAMPLE.js](chapter_22_Encapsulation/180_REAK_EXAMPLE.js) - Practical encapsulation example
+- [chapter_22_Encapsulation/181_Ecap_Car.js](chapter_22_Encapsulation/181_Ecap_Car.js) - Encapsulated car example
+- [chapter_22_Encapsulation/182_ECap_Bank.js](chapter_22_Encapsulation/182_ECap_Bank.js) - Bank account encapsulation example
+
+### Chapter 23: Inheritance
+- [chapter_23_Inheritance/README.md](chapter_23_Inheritance/README.md) - Inheritance concepts and examples
+- [chapter_23_Inheritance/183_Single_Inheritance.js](chapter_23_Inheritance/183_Single_Inheritance.js) - Single inheritance example
+- [chapter_23_Inheritance/184_SI_Example.js](chapter_23_Inheritance/184_SI_Example.js) - More single inheritance examples
+- [chapter_23_Inheritance/185_Single_Inheritance_Con.js](chapter_23_Inheritance/185_Single_Inheritance_Con.js) - Inheritance comparison example
+- [chapter_23_Inheritance/186_IQ.js](chapter_23_Inheritance/186_IQ.js) - Inheritance practice questions
+- [chapter_23_Inheritance/188_REAL_PageObject_Model.js](chapter_23_Inheritance/188_REAL_PageObject_Model.js) - Page Object Model with inheritance
+
+### Chapter 24: Polymorphism
+- [chapter_24_Polymorphism/README.md](chapter_24_Polymorphism/README.md) - Polymorphism and method overriding concepts
+- [chapter_24_Polymorphism/192_Method_Overriding.js](chapter_24_Polymorphism/192_Method_Overriding.js) - Method overriding example
+
 ### Resources
 - [VS_Code_KeyboardShortcuts_Windows.md](VS_Code_KeyboardShortcuts_Windows.md) - VS Code shortcuts for Windows
 - [VS_Code_KeyboardShortcuts_Mac.md](VS_Code_KeyboardShortcuts_Mac.md) - VS Code shortcuts for macOS
