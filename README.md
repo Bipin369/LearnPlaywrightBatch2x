@@ -261,6 +261,13 @@ npx playwright test
 - [chapter_24_Polymorphism/README.md](chapter_24_Polymorphism/README.md) - Polymorphism and method overriding concepts
 - [chapter_24_Polymorphism/192_Method_Overriding.js](chapter_24_Polymorphism/192_Method_Overriding.js) - Method overriding example
 
+### Chapter 25: OOP Interview Questions
+- [chapter_25_OOP_Interview_Questions/README.md](chapter_25_OOP_Interview_Questions/README.md) - OOP interview questions and practice examples
+- [chapter_25_OOP_Interview_Questions/EX1.js](chapter_25_OOP_Interview_Questions/EX1.js) - OOP interview exercise 1
+- [chapter_25_OOP_Interview_Questions/EX2.js](chapter_25_OOP_Interview_Questions/EX2.js) - OOP interview exercise 2
+- [chapter_25_OOP_Interview_Questions/EX3.js](chapter_25_OOP_Interview_Questions/EX3.js) - OOP interview exercise 3
+- [chapter_25_OOP_Interview_Questions/EX4.js](chapter_25_OOP_Interview_Questions/EX4.js) - OOP interview exercise 4
+
 ### Resources
 - [VS_Code_KeyboardShortcuts_Windows.md](VS_Code_KeyboardShortcuts_Windows.md) - VS Code shortcuts for Windows
 - [VS_Code_KeyboardShortcuts_Mac.md](VS_Code_KeyboardShortcuts_Mac.md) - VS Code shortcuts for macOS
