@@ -233,6 +233,9 @@ npx playwright test
 - [VS_Code_KeyboardShortcuts_Mac.md](VS_Code_KeyboardShortcuts_Mac.md) - VS Code shortcuts for macOS
 - [interview.md](interview.md) - JavaScript interview notes and object reference guidance
 
+### Coding Exams
+- [Coding_Exams/Basic_Part2/Program1.js](Coding_Exams/Basic_Part2/Program1.js) - Basic Part 2 exercise for mapping HTTP status codes with a switch statement
+
 ## 🚀 Getting Started
 
 1. Clone the repository:
