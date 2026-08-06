@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "scripts": {
+    "run:199_IQ": "tsx chapter_26_Typescript/199_IQ.ts",
+    "run:199_tsnode": "ts-node -P tsconfig.tsnode.json chapter_26_Typescript/199_IQ.ts",
+    "start": "npm run run:199_IQ"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "tsx": "^4.23.7",
+    "typescript": "^4.9.5"
+  }
+}

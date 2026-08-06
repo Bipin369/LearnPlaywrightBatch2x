@@ -268,6 +268,23 @@ npx playwright test
 - [chapter_25_OOP_Interview_Questions/EX3.js](chapter_25_OOP_Interview_Questions/EX3.js) - OOP interview exercise 3
 - [chapter_25_OOP_Interview_Questions/EX4.js](chapter_25_OOP_Interview_Questions/EX4.js) - OOP interview exercise 4
 
+### Chapter 26: TypeScript Basics
+- [chapter_26_Typescript/193_TS.js](chapter_26_Typescript/193_TS.js) - TypeScript basics and JavaScript comparison examples
+- [chapter_26_Typescript/194_TS_HelloWorld.js](chapter_26_Typescript/194_TS_HelloWorld.js) - Compiled JavaScript output for a hello-world example
+- [chapter_26_Typescript/194_TS_HelloWorld.ts](chapter_26_Typescript/194_TS_HelloWorld.ts) - TypeScript hello-world example
+- [chapter_26_Typescript/195_TS_Part1.ts](chapter_26_Typescript/195_TS_Part1.ts) - TypeScript fundamentals part 1
+- [chapter_26_Typescript/196_TS_Part2.ts](chapter_26_Typescript/196_TS_Part2.ts) - TypeScript fundamentals part 2
+- [chapter_26_Typescript/197_TS_Part2.ts](chapter_26_Typescript/197_TS_Part2.ts) - Additional TypeScript practice examples
+- [chapter_26_Typescript/198_Part3.ts](chapter_26_Typescript/198_Part3.ts) - TypeScript practice part 3
+- [chapter_26_Typescript/199_IQ.ts](chapter_26_Typescript/199_IQ.ts) - TypeScript interview-style questions
+- [chapter_26_Typescript/200_IQ.ts](chapter_26_Typescript/200_IQ.ts) - More TypeScript interview questions
+
+### Chapter 27: TypeScript Interface
+- [chapter_27_TypeScript_Interface/201_IF.ts](chapter_27_TypeScript_Interface/201_IF.ts) - Interface basics in TypeScript
+- [chapter_27_TypeScript_Interface/202_IF_Part2.ts](chapter_27_TypeScript_Interface/202_IF_Part2.ts) - Interface examples and extensions
+- [chapter_27_TypeScript_Interface/203_IF_READONLY.ts](chapter_27_TypeScript_Interface/203_IF_READONLY.ts) - Readonly interface properties
+- [chapter_27_TypeScript_Interface/204_IF_READOnly.ts](chapter_27_TypeScript_Interface/204_IF_READOnly.ts) - Additional readonly interface patterns
+
 ### Resources
 - [VS_Code_KeyboardShortcuts_Windows.md](VS_Code_KeyboardShortcuts_Windows.md) - VS Code shortcuts for Windows
 - [VS_Code_KeyboardShortcuts_Mac.md](VS_Code_KeyboardShortcuts_Mac.md) - VS Code shortcuts for macOS
@@ -312,6 +329,7 @@ npx playwright test
 - Process and Platform Information
 - Basic Programming Concepts
 - Array methods such as map, filter, reduce, and flat
+- TypeScript fundamentals and interface-based design
 
 ## 🛠️ Prerequisites
 
