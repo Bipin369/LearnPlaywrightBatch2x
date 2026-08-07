@@ -302,6 +302,23 @@ npx playwright test
 - [Coding_Exams/Basic_Part2/Program9.js](Coding_Exams/Basic_Part2/Program9.js) - Basic Part 2 exercise for additional JavaScript practice
 - [Coding_Exams/Basic_Part2/Program10.js](Coding_Exams/Basic_Part2/Program10.js) - Basic Part 2 exercise for final practice on conditional logic
 
+### Chapter 3: Basic Part 3 Coding Exams
+- [Coding_Exams/Basic_Part3/Challange1.js](Coding_Exams/Basic_Part3/Challange1.js) - Challenge 1 example solution
+- [Coding_Exams/Basic_Part3/Challange2.js](Coding_Exams/Basic_Part3/Challange2.js) - Challenge 2 example solution
+- [Coding_Exams/Basic_Part3/Challange3.js](Coding_Exams/Basic_Part3/Challange3.js) - Challenge 3 example solution
+- [Coding_Exams/Basic_Part3/Challange4.js](Coding_Exams/Basic_Part3/Challange4.js) - Challenge 4 example solution
+- [Coding_Exams/Basic_Part3/Challange5.js](Coding_Exams/Basic_Part3/Challange5.js) - Challenge 5 example solution
+- [Coding_Exams/Basic_Part3/Challange6.js](Coding_Exams/Basic_Part3/Challange6.js) - Challenge 6 example solution
+- [Coding_Exams/Basic_Part3/Challange7.js](Coding_Exams/Basic_Part3/Challange7.js) - Challenge 7 example solution
+- [Coding_Exams/Basic_Part3/Challange8.js](Coding_Exams/Basic_Part3/Challange8.js) - Challenge 8 example solution
+- [Coding_Exams/Basic_Part3/Challange9.js](Coding_Exams/Basic_Part3/Challange9.js) - Challenge 9 example solution
+- [Coding_Exams/Basic_Part3/Challange10.js](Coding_Exams/Basic_Part3/Challange10.js) - Challenge 10 example solution
+- [Coding_Exams/Basic_Part3/Challange11.js](Coding_Exams/Basic_Part3/Challange11.js) - Challenge 11 example solution
+- [Coding_Exams/Basic_Part3/Challange12.js](Coding_Exams/Basic_Part3/Challange12.js) - Challenge 12 example solution
+- [Coding_Exams/Basic_Part3/Challange13.js](Coding_Exams/Basic_Part3/Challange13.js) - Challenge 13 example solution
+- [Coding_Exams/Basic_Part3/Challange14.js](Coding_Exams/Basic_Part3/Challange14.js) - Challenge 14 example solution
+- [Coding_Exams/Basic_Part3/Challange15.js](Coding_Exams/Basic_Part3/Challange15.js) - Challenge 15 example solution
+
 ## 🚀 Getting Started
 
 1. Clone the repository:

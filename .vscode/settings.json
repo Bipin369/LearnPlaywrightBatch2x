@@ -1,0 +1,10 @@
+{
+  "code-runner.executorMapByFileExtension": {
+    ".ts": "ts-node -P tsconfig.tsnode.json"
+  },
+  "code-runner.executorMap": {
+    "typescript": "ts-node -P tsconfig.tsnode.json"
+  },
+  "code-runner.runInTerminal": false,
+  "code-runner.saveFileBeforeRun": true
+}
