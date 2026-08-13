@@ -284,6 +284,29 @@ npx playwright test
 - [chapter_27_TypeScript_Interface/202_IF_Part2.ts](chapter_27_TypeScript_Interface/202_IF_Part2.ts) - Interface examples and extensions
 - [chapter_27_TypeScript_Interface/203_IF_READONLY.ts](chapter_27_TypeScript_Interface/203_IF_READONLY.ts) - Readonly interface properties
 - [chapter_27_TypeScript_Interface/204_IF_READOnly.ts](chapter_27_TypeScript_Interface/204_IF_READOnly.ts) - Additional readonly interface patterns
+- [chapter_27_TypeScript_Interface/205_Interface.ts](chapter_27_TypeScript_Interface/205_Interface.ts) - Interface advanced concepts
+- [chapter_27_TypeScript_Interface/206_Hooks.ts](chapter_27_TypeScript_Interface/206_Hooks.ts) - Hooks with interfaces in TypeScript
+- [chapter_27_TypeScript_Interface/207_Bug REPORT.ts](chapter_27_TypeScript_Interface/207_Bug%20REPORT.ts) - Bug report interface patterns
+- [chapter_27_TypeScript_Interface/208_TestConfig.ts](chapter_27_TypeScript_Interface/208_TestConfig.ts) - Test configuration interface
+- [chapter_27_TypeScript_Interface/209_REAL_EXAMPLE.ts](chapter_27_TypeScript_Interface/209_REAL_EXAMPLE.ts) - Real-world interface examples
+- [chapter_27_TypeScript_Interface/210_Class_Interface.ts](chapter_27_TypeScript_Interface/210_Class_Interface.ts) - Classes implementing interfaces
+
+### Chapter 28: ENUM
+- [chapter_28_ENUM/211_ENUM.ts](chapter_28_ENUM/211_ENUM.ts) - Enum basics and usage
+- [chapter_28_ENUM/212_Enum_Fn.ts](chapter_28_ENUM/212_Enum_Fn.ts) - Enums with functions
+- [chapter_28_ENUM/213_ENUM.ts](chapter_28_ENUM/213_ENUM.ts) - Advanced enum patterns
+- [chapter_28_ENUM/214_API_.ts](chapter_28_ENUM/214_API_.ts) - Enums in API design
+
+### Chapter 29: TypeScript Generic
+- [chapter_29_Typescript_Generic/215_Generic.ts](chapter_29_Typescript_Generic/215_Generic.ts) - Generic type basics
+- [chapter_29_Typescript_Generic/216_Generic_Class.ts](chapter_29_Typescript_Generic/216_Generic_Class.ts) - Generic classes in TypeScript
+- [chapter_29_Typescript_Generic/217_Generic_API_RESPONSE.ts](chapter_29_Typescript_Generic/217_Generic_API_RESPONSE.ts) - Generic API response handling
+
+### Chapter 30: Private/Public/Protected
+- [chapter_30_PRIVATE_PUBLIC_PROTECTED/218_PPP.ts](chapter_30_PRIVATE_PUBLIC_PROTECTED/218_PPP.ts) - Private, public, protected access modifiers
+- [chapter_30_PRIVATE_PUBLIC_PROTECTED/219_PageObjectModel.ts](chapter_30_PRIVATE_PUBLIC_PROTECTED/219_PageObjectModel.ts) - Page Object Model with access modifiers
+- [chapter_30_PRIVATE_PUBLIC_PROTECTED/220_READONLY.ts](chapter_30_PRIVATE_PUBLIC_PROTECTED/220_READONLY.ts) - Readonly properties in classes
+- [chapter_30_PRIVATE_PUBLIC_PROTECTED/221_Abstract_Class.ts](chapter_30_PRIVATE_PUBLIC_PROTECTED/221_Abstract_Class.ts) - Abstract classes and methods
 
 ### Resources
 - [VS_Code_KeyboardShortcuts_Windows.md](VS_Code_KeyboardShortcuts_Windows.md) - VS Code shortcuts for Windows
