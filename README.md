@@ -308,6 +308,28 @@ npx playwright test
 - [chapter_30_PRIVATE_PUBLIC_PROTECTED/220_READONLY.ts](chapter_30_PRIVATE_PUBLIC_PROTECTED/220_READONLY.ts) - Readonly properties in classes
 - [chapter_30_PRIVATE_PUBLIC_PROTECTED/221_Abstract_Class.ts](chapter_30_PRIVATE_PUBLIC_PROTECTED/221_Abstract_Class.ts) - Abstract classes and methods
 
+### Chapter 31: Type Override and Decorators
+- [chapter_31_Type_Overide_Decortors/222_Type_As.ts](chapter_31_Type_Overide_Decortors/222_Type_As.ts) - Type assertion and casting in TypeScript
+- [chapter_31_Type_Overide_Decortors/223_Type_Alias_As.ts](chapter_31_Type_Overide_Decortors/223_Type_Alias_As.ts) - Type aliases and assertions
+- [chapter_31_Type_Overide_Decortors/224_Override.ts](chapter_31_Type_Overide_Decortors/224_Override.ts) - Override keyword in TypeScript classes
+- [chapter_31_Type_Overide_Decortors/225_IQ.ts](chapter_31_Type_Overide_Decortors/225_IQ.ts) - Type override and decorator interview questions
+- [chapter_31_Type_Overide_Decortors/226_Decorator.ts](chapter_31_Type_Overide_Decortors/226_Decorator.ts) - TypeScript decorators basics
+- [chapter_31_Type_Overide_Decortors/227_Decortors_2.ts](chapter_31_Type_Overide_Decortors/227_Decortors_2.ts) - Advanced decorator patterns
+- [chapter_31_Type_Overide_Decortors/228_Multiple_Decor.ts](chapter_31_Type_Overide_Decortors/228_Multiple_Decor.ts) - Multiple decorators on classes and methods
+
+### Chapter 32: Playwright Fundamentals
+- [chapter_32_Playwright_Fundamentals/playwright.config.ts](chapter_32_Playwright_Fundamentals/playwright.config.ts) - Comprehensive Playwright test configuration
+- [chapter_32_Playwright_Fundamentals/package.json](chapter_32_Playwright_Fundamentals/package.json) - Playwright test project dependencies
+- [chapter_32_Playwright_Fundamentals/tsconfig.json](chapter_32_Playwright_Fundamentals/tsconfig.json) - TypeScript configuration for Playwright tests
+- [chapter_32_Playwright_Fundamentals/tests/](chapter_32_Playwright_Fundamentals/tests/) - Playwright test specifications directory
+
+To run the Playwright tests from the chapter folder:
+```bash
+cd chapter_32_Playwright_Fundamentals
+npm install
+npx playwright test
+```
+
 ### Resources
 - [VS_Code_KeyboardShortcuts_Windows.md](VS_Code_KeyboardShortcuts_Windows.md) - VS Code shortcuts for Windows
 - [VS_Code_KeyboardShortcuts_Mac.md](VS_Code_KeyboardShortcuts_Mac.md) - VS Code shortcuts for macOS
@@ -413,3 +435,4 @@ For questions or suggestions, please open an issue in this repository.
 - 2026-06-11: Updated README — committed and pushed repository changes.
 - 2026-07-29: Fixed TypeError in Tasks/22_June_2026/PlaywrightClassPrint.js — call static method `printBatch()` on the class `playwright2xBatch` instead of on instances; committed and pushed.
 - 2026-07-29: Committed all workspace changes and pushed to `origin/master`.
+- 2026-08-14: Add Chapter 31 (Type Override and Decorators) and Chapter 32 (Playwright Fundamentals); updated README.md with new chapter listings; committed and pushed.
